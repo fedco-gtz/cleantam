@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/Logo.png" alt="Logo CLEANTAM" width="500"/>
+  <img src="https://raw.githubusercontent.com/fedco-gtz/cleantam/main/img/Logo.png" alt="Logo Cleantam" width="300"/>
 </p>
 
 # CLEANTAM
